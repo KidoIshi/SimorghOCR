@@ -30,3 +30,6 @@ pip install -r requirements.txt
 OCRエンジンを選びます。
 画像またはPDFファイルをアップロード
 OCR処理が完了すると、抽出されたテキストがアプリケーションウィンドウに表示され、Wordドキュメントとしてダウンロードできます。
+
+## ライセンス
+GNU GPL version 3

@@ -27,8 +27,8 @@ cd SimorghOCR
 pip install -r requirements.txt
 # SimorghOCR
 ```
-OCRエンジンを選びます　　　
-画像またはPDFファイルをアップロード　　
+OCRエンジンを選びます__
+画像またはPDFファイルをアップロード__
 OCR処理が完了すると、抽出されたテキストがアプリケーションウィンドウに表示され、Wordドキュメントとしてダウンロードできます
 
 ## ライセンス

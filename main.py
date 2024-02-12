@@ -10,7 +10,7 @@ import numpy as np
 def main():
     ctk.set_appearance_mode("Light")
 
-    # Tesseractのパスを設定（Windowsの場合）
+    # Tesseractのパスを設定
     pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
     # EasyOCRのリーダーを初期化（ここでペルシア語を指定）

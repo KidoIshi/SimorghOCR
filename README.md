@@ -26,7 +26,7 @@ cd SimorghOCR
 # 必要なPythonパッケージをインストール
 pip install -r requirements.txt
 # SimorghOCR
-```bash
+```
 OCRエンジンを選びます。
 画像またはPDFファイルをアップロード
 OCR処理が完了すると、抽出されたテキストがアプリケーションウィンドウに表示され、Wordドキュメントとしてダウンロードできます。

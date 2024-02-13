@@ -5,11 +5,11 @@ SimorghOCR is an optical character recognition (OCR) application specialized in 
 SimorghOCRは、ペルシア語に特化した光学文字認識（OCR）アプリケーションです。
 
 ## Features
--Tesseract OCR and EasyOCR
--Capable of processing both image files (JPEG, PNG, BMP, TIFF, etc.) and PDF documents
--User-friendly GUI built with CustomTkinter
--Language support focused on Persian (Farsi)
--Direct conversion of extracted text to Microsoft Word (DOCX) format for easy editing and formatting
+- Tesseract OCR and EasyOCR<br>
+- Capable of processing both image files (JPEG, PNG, BMP, TIFF, etc.) and PDF documents<br>
+- User-friendly GUI built with CustomTkinter<br>
+- Language support focused on Persian (Farsi)<br>
+- Direct conversion of extracted text to Microsoft Word (DOCX) format for easy editing and formatting<br>
 
 - Tesseract OCRおよびEasyOCR
 - 画像ファイル（JPEG、PNG、BMP、TIFFなど）とPDFドキュメントの両方を処理可能
@@ -22,7 +22,7 @@ Before installing SimorghOCR, it is necessary to have Tesseract OCR pre-installe
 
 SimorghOCRをインストールする前に、アプリケーションで使用される主要なOCRエンジンの1つであるTesseract OCRの事前インストールされているが必要です。[こちら](https://github.com/tesseract-ocr/tesseract)からTesseract OCRをダウンロードしてインストールしてください。
 
-Once Tesseract OCR is installed, follow these steps to install SimorghOCR:
+Once Tesseract OCR is installed, follow these steps to install SimorghOCR:<br>
 Tesseract OCRがインストールされたら、以下の手順でSimorghOCRをインストールしてください：
 
 ```bash

@@ -11,17 +11,17 @@ SimorghOCRは、ペルシア語に特化した光学文字認識（OCR）アプ�
 - Language support focused on Persian (Farsi)<br>
 - Direct conversion of extracted text to Microsoft Word (DOCX) format for easy editing and formatting<br>
 <br>
-- Tesseract OCRおよびEasyOCR
-- 画像ファイル（JPEG、PNG、BMP、TIFFなど）とPDFドキュメントの両方を処理可能
-- CustomTkinterで構築されたユーザーフレンドリーなGUI
-- ペルシア語（ファルシ）に焦点を当てた言語サポート
-- 抽出されたテキストを簡単な編集とフォーマットのためにMicrosoft Word（DOCX）形式に直接変換
+- Tesseract OCRおよびEasyOCR<br>
+- 画像ファイル（JPEG、PNG、BMP、TIFFなど）とPDFドキュメントの両方を処理可能<br>
+- CustomTkinterで構築されたユーザーフレンドリーなGUI<br>
+- ペルシア語（ファルシ）に焦点を当てた言語サポート<br>
+- 抽出されたテキストを簡単な編集とフォーマットのためにMicrosoft Word（DOCX）形式に直接変換<br>
 
 ## Inastall
-Before installing SimorghOCR, it is necessary to have Tesseract OCR pre-installed, which is one of the main OCR engines used in the application. Please download and install Tesseract OCR from [here](https://github.com/tesseract-ocr/tesseract).
+Before installing SimorghOCR, it is necessary to have Tesseract OCR pre-installed, which is one of the main OCR engines used in the application. Please download and install Tesseract OCR from [here](https://github.com/tesseract-ocr/tesseract).<br>
 <br>
 SimorghOCRをインストールする前に、アプリケーションで使用される主要なOCRエンジンの1つであるTesseract OCRの事前インストールされているが必要です。[こちら](https://github.com/tesseract-ocr/tesseract)からTesseract OCRをダウンロードしてインストールしてください。
-
+<br>
 Once Tesseract OCR is installed, follow these steps to install SimorghOCR:<br>
 <br>
 Tesseract OCRがインストールされたら、以下の手順でSimorghOCRをインストールしてください：

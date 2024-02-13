@@ -1,6 +1,7 @@
 # SimorghOCR
 
-SimorghOCR is an optical character recognition (OCR) application specialized in Persian language.
+SimorghOCR is an optical character recognition (OCR) application specialized in Persian language.<br>
+
 SimorghOCRは、ペルシア語に特化した光学文字認識（OCR）アプリケーションです。
 
 ## Features
@@ -38,10 +39,10 @@ cd SimorghOCR
 pip install -r requirements.txt
 # SimorghOCR
 ```
-Select the OCR engine
-Upload an image or PDF file
-Upon completion of OCR processing, the extracted text will be displayed in the application window and can be downloaded as a Word document
-
+Select the OCR engine<br>
+Upload an image or PDF file<br>
+Upon completion of OCR processing, the extracted text will be displayed in the application window and can be downloaded as a Word document<br>
+<br>
 OCRエンジンを選びます<br>
 画像またはPDFファイルをアップロードします<br>
 OCR処理が完了すると、抽出されたテキストがアプリケーションウィンドウに表示され、Wordドキュメントとしてダウンロードできます

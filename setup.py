@@ -1,12 +1,15 @@
 from setuptools import setup, find_packages
 
+with open('README.md', encoding='utf-8') as f:
+    long_description = f.read()
+    
 setup(
     name="SimorghOCR",
     version="0.1.0",
     author="Kido Ishikawa",
     author_email="kido.ishikawa6@gmail.com",
     description="A simple OCR application using CustomTkinter, Tesseract, and EasyOCR.",
-    long_description=open('README.md').read(),
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/KidoIshi/SimorghOCR",
     packages=find_packages(),

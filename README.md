@@ -22,7 +22,6 @@ Before installing SimorghOCR, it is necessary to have Tesseract OCR pre-installe
 <br>
 Once Tesseract OCR is installed, follow these steps to install SimorghOCR:<br>
 <br>
-<br>
 SimorghOCRをインストールする前に、アプリケーションで使用される主要なOCRエンジンの1つであるTesseract OCRの事前インストールされているが必要です。[こちら](https://github.com/tesseract-ocr/tesseract)からTesseract OCRをダウンロードしてインストールしてください。<br>
 <br>
 Tesseract OCRがインストールされたら、以下の手順でSimorghOCRをインストールしてください：

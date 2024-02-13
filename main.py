@@ -1,20 +1,20 @@
-import customtkinter as ctk  # CustomTkinterをインポート
+import customtkinter as ctk
 from tkinter import filedialog
 from PIL import Image
 import pytesseract
 from docx import Document
 from pdf2image import convert_from_path
-import easyocr  # EasyOCRをインポート
+import easyocr
 import numpy as np
 
 def main():
     ctk.set_appearance_mode("Light")
 
-    # Tesseractのパスを設定
+    # Tesseractのパスを設定 Set Tesseract paths
     pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-    # EasyOCRのリーダーを初期化（ここでペルシア語を指定）
-    reader = easyocr.Reader(['fa'])  # 'fa'はペルシア語の言語コード
+    # EasyOCRのリーダーを初期化（ここでペルシア語を指定） Initialise EasyOCR reader (specify Persian here).
+    reader = easyocr.Reader(['fa'])  # 'fa'はペルシア語の言語コード 'fa' is the Persian language code
 
     def pdf_to_ocr(filename, ocr_engine):
         images = convert_from_path(filename)

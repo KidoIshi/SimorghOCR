@@ -39,7 +39,9 @@ cd SimorghOCR
 # Install necessary Python packages
 # 必要なPythonパッケージをインストール
 pip install -r requirement.txt
+
 # SimorghOCR
+Python main.py
 ```
 Select the OCR engine<br>
 Upload an image or PDF file<br>

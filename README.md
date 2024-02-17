@@ -38,7 +38,7 @@ cd SimorghOCR
 
 # Install necessary Python packages
 # 必要なPythonパッケージをインストール
-pip install -r requirements.txt
+pip install -r requirement.txt
 # SimorghOCR
 ```
 Select the OCR engine<br>
